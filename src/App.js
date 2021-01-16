@@ -59,7 +59,6 @@ class App extends React.Component {
   render() {
     return (
       <>
-
        <div className="App">
       <div className="card">
         <h2 className="title"><i className="fa fa-cloud"></i>Weather App</h2>

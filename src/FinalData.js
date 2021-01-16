@@ -2,7 +2,7 @@ import React from 'react';
 
 import Table from 'react-bootstrap/Table';
 
-class SummaryData extends React.Component {
+class FinalData extends React.Component {
 
   render() {
     return (
@@ -29,4 +29,4 @@ class SummaryData extends React.Component {
 
 }
 
-export default SummaryData;
+export default FinalData;
